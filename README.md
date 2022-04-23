@@ -2,6 +2,10 @@
 
 Software Engineer
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,flutter,react,js,html,css)](https://skillicons.dev)
+
+
+
 
 <!--
 **gary3500/gary3500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
